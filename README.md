@@ -5,7 +5,8 @@ This Project Goal is to implement and optimise in CUDA programming language, for
 
 # IMPLEMENTATION
 
-### READING THE MATRIX
+
+## READING THE MATRIX
 First of all, in order to read and visualize the matrix 'cavity02.mtx' file, I wrote a phyton script which, given as imput an '.mtx' file, returns a '.png' file representing the matrix.
 
 
